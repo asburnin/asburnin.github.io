@@ -15,11 +15,8 @@
   </style>
 </head>
 
-<body style="background-color:#66cc66">
+<body style="background-color:#e46248">
   
-<p><a href="1.html">Ссылка 1</a></p>
-<p><a href="2.html">Ссылка 2</a></p>
-<p><a href="3.html">Ссылка 3</a></p>
 
 </body>
 
