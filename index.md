@@ -16,7 +16,7 @@
 </head>
 
 <body style="background-color:#e46248">
-  
+<a class="tooltip" href="#">Анкор ссылки <span><img src="image.png"/></span> </a>
 
 </body>
 
