@@ -2,7 +2,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Secret H</title>
+  <title>Secret Hi</title>
   <style>
     a:link {
       color: #0000d0; /* Цвет ссылок */
