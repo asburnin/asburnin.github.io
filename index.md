@@ -2,13 +2,13 @@
   
 <style>  
 .tooltip span{
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 0px 0px 0px 0px;
     visibility: hidden;
     position: absolute;
     left: 200px;
     background: #fff;
-    box-shadow: -2px 2px 10px -1px #333; 
-    border-radius: 5px;	
+    box-shadow: 0px 0px 0px 0px; 
+    border-radius: 0px;	
 }
  
 .tooltip:hover span{
