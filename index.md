@@ -2,7 +2,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>hover</title>
+  <title>Secret H</title>
   <style>
     a:link {
       color: #0000d0; /* Цвет ссылок */
@@ -14,10 +14,13 @@
     }
   </style>
 </head>
+
 <body style="background-color:#66cc66">
+  
 <p><a href="1.html">Ссылка 1</a></p>
 <p><a href="2.html">Ссылка 2</a></p>
 <p><a href="3.html">Ссылка 3</a></p>
+
 </body>
 
 </html>
