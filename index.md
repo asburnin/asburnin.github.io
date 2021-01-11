@@ -1,4 +1,4 @@
-<html class="no-js" lang="">
+<html lang="ru">
   
 <style>  
 .tooltip span{
@@ -6,7 +6,7 @@
     visibility: hidden;
     position: absolute;
     left: 200px;
-    background: #fff;
+    background: #e46248;
     box-shadow: 0px 0px 0px 0px; 
     border-radius: 0px;	
 }
@@ -18,15 +18,16 @@ visibility: visible;
 
 <head>
   
-  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Secret Hi</title>
-  
-  
+  <link rel="stylesheet" href="./Академия HTML_files/style.css">
+   
 </head>
 
 <body style="background-color:#e46248">
-<a class="tooltip" href="#">Анкор ссылки <span> <img src="tomas-torto-tomas-torto-kpbkfbg.jpg"/> </span> </a>
-
+   <main>
+<a class="tooltip" href="#">кек <span> <img src="tomas-torto-tomas-torto-kpbkfbg.jpg"/> </span> </a>
+   </main>
 </body>
 
 </html>
